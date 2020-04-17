@@ -15,3 +15,7 @@ For a development install, run:
 ```
 pip install -e .
 ```
+
+```
+https://github.com/jdfreder/ipython-widgetboilerplate
+```
